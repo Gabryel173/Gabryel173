@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Gabryel173</h1>
 
-<!--
-**Gabryel173/Gabryel173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=5800EC&center=true&vCenter=true&width=500&lines=Developer" alt="Developer" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">Computer Engineering student passionate about programming and web development. Fast learner, motivated, and eager to grow. Experienced with React, C++, Java, and Linux fundamentals.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabryel173&show_icons=true&theme=radical&border_color=00FFFF&border_radius=10&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabryel173&color=00FFFF&style=flat-square&label=Profile+Views" />
+</div>
+
+<div align="center">
+  
+  ```javascript
+const gabriel = {
+  focus: "Software Development & Web Technologies",
+  learning: "React, Linux fundamentals & advanced programming",
+  goal: "Grow as a developer and contribute to impactful tech projects",
+  certifications: [
+    "Web Development - Front End React (Step Computer Academy)",
+    "Getting Started with Linux Fundamentals (Red Hat)"
+  ]
+};
+  ```
+  
+</div>
